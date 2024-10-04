@@ -19,7 +19,7 @@
 
 ## How to run application
 
-- Download the project zip from the github [https://github.com/11vaish/Unstop-Challenge]
+- Download the project zip from the github [https://github.com/11vaish]
 - Install all project dependencies by running command
 
 ```bash
