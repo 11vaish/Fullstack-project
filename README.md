@@ -1,5 +1,4 @@
 
-# Unstop's Full Stack Developer Challenge
 
 
 ## Problem Statement
